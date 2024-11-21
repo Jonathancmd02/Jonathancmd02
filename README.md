@@ -13,6 +13,6 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
   linguagens = ["Python (basico)"];
   fraquezas = ["Ainda aprendendo todo o Spaghetti da área de Programação"];
-  qualidade = ["Dedicação para aprender a desenrolar Spaghettis"]; 
+  qualidades = ["Dedicação para aprender a desenrolar Spaghettis"]; 
 }
 ```
